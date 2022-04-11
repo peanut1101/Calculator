@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  calculate1.cpp
+G:\Calculator - 副本\calculate1.cpp(215,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Calculator - 副本\calculate1.cpp(238,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Calculator.cpp
+  CalculatorDlg.cpp
+G:\Calculator - 副本\CalculatorDlg.cpp(1075,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\Calculator - 副本\CalculatorDlg.cpp(1076,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\Calculator - 副本\CalculatorDlg.cpp(1085,34): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+G:\Calculator - 副本\CalculatorDlg.cpp(1086,36): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+G:\Calculator - 副本\CalculatorDlg.cpp(1087,32): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+G:\Calculator - 副本\CalculatorDlg.cpp(1088,38): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  CRC16.cpp
+  CTest.cpp
+  help.cpp
+  正在生成代码...
+D:\Windows Kits\10\Include\10.0.22000.0\um\winuser.rh(1111): warning RC4005: 'WS_EX_NOINHERITLAYOUT' : redefinition
+  
+  Calculator.vcxproj -> G:\Calculator - 副本\x64\Debug\Calculator.exe
